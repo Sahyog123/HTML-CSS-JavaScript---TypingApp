@@ -15,4 +15,5 @@ This web application allows you to improve your typing speed and accuracy throug
 
 ## Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
 I can also be contacted at sahyogshetty12@gmail.com
