@@ -1,6 +1,13 @@
 ## Typing Game
 This web application allows you to improve your typing speed and accuracy through engaging typing tests.
 
+<p align="center">
+  <img src="images/Screenshot Window focus error screen.png" width="400" alt="Unsolved Grid Image">
+</p>
+<p align="center">
+  <i>Image of app out of focus when nothing is being typed</i>
+</p>
+
 ## Features
 **Typing Test:** Start a typing test with random words or text. Track your words per minute (WPM) and errors in real-time.
 
